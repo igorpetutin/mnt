@@ -1,6 +1,6 @@
 {
     "family": "cadvisor-node-exporter-definition",
-    "taskRoleArn": "arn:aws:iam::873212398515:role/sandbox-us-east-1",
+    "taskRoleArn": "arn:aws:iam::873212398515:role/AmazonECSTaskRole",
         "containerDefinitions": [
             {
                 "name": "node-exporter",
